@@ -17,27 +17,27 @@ gem install lolcat
 clear
 echo""
 echo""
-echo $me " ╭━━╮╭━━━╮  ╭╮╱╭┳━━━┳━━━┳╮╭━┳━━━┳━━━╮  "
+echo \033[33;1m " ╭━━╮╭━━━╮  ╭╮╱╭┳━━━┳━━━┳╮╭━┳━━━┳━━━╮  "
 sleep 0.03
-echo $me " ┃╭╮┃╰╮╭╮┃  ┃┃╱┃┃╭━╮┃╭━╮┃┃┃╭┫╭━━┫╭━╮┃  "
+echo \033[33;1m " ┃╭╮┃╰╮╭╮┃  ┃┃╱┃┃╭━╮┃╭━╮┃┃┃╭┫╭━━┫╭━╮┃  "
 sleep 0.03
-echo $me " ┃╰╯╰╮┃┃┃┃  ┃╰━╯┃┃╱┃┃┃╱╰┫╰╯╯┃╰━━┫╰━╯┃  "
+echo \033[33;1m " ┃╰╯╰╮┃┃┃┃  ┃╰━╯┃┃╱┃┃┃╱╰┫╰╯╯┃╰━━┫╰━╯┃  "
 sleep 0.03
-echo $me " ┃╭━╮┃┃┃┃┃  ┃╭━╮┃╰━╯┃┃╱╭┫╭╮┃┃╭━━┫╭╮╭╯  "
+echo \033[33;1m " ┃╭━╮┃┃┃┃┃  ┃╭━╮┃╰━╯┃┃╱╭┫╭╮┃┃╭━━┫╭╮╭╯  "
 sleep 0.03
-echo $me " ┃╰━╯┣╯╰╯┃  ┃┃╱┃┃╭━╮┃╰━╯┃┃┃╰┫╰━━┫┃┃╰╮  "
+echo \033[33;1m " ┃╰━╯┣╯╰╯┃  ┃┃╱┃┃╭━╮┃╰━╯┃┃┃╰┫╰━━┫┃┃╰╮  "
 sleep 0.03
-echo $me " ╰━━━┻━━━╯  ╰╯╱╰┻╯╱╰┻━━━┻╯╰━┻━━━┻╯╰━╯  "
+echo \033[33;1m " ╰━━━┻━━━╯  ╰╯╱╰┻╯╱╰┻━━━┻╯╰━┻━━━┻╯╰━╯  "
 sleep 0.03
-echo $me ""
-echo $me ""
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i "CREATOR        : MOHAMMAD SHIHAB UDDIN"
-echo $i "SPESAL THANKS  : FARHAN AHAMED"
-echo $i "YOUTUBE        : INTERNET HELP ZONE"
-echo $i "TEAM           : BANGLADESH SHADOW WARRIOR"
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $cy "Hello,let me know,what is your name??"
+echo \033[33;1m ""
+echo \033[33;1m ""
+echo \033[33;1m "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo \033[33;1m "CREATOR        : MOHAMMAD SHIHAB UDDIN"
+echo \033[33;1m "SPESAL THANKS  : FARHAN AHAMED"
+echo \033[33;1m "YOUTUBE        : INTERNET HELP ZONE"
+echo \033[33;1m "TEAM           : BANGLADESH SHADOW WARRIOR"
+echo \033[33;1m "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo \033[33;1m "Hello,let me know,what is your name??"
 read -p">>>" nick;
 figlet $nick
 sleep 0.03
@@ -49,26 +49,26 @@ echo "Open Script...."
 sleep 1
 clear
 figlet $nick
-echo $cy " ___SELECT YOUR WORKING TOOLS___"
-echo $me "[1]"$me" FACEBOOK HACK"
-echo $me "[2]"$me" Spam Chat"
-echo $me "[3]"$me" Phising Web Maker"
-echo $me "[4]"$me" CCTV Hack"
-echo $me "[5]"$me" DDOS Attack"
-echo $me "[6]"$me" Virus Maker"
-echo $me "[7]"$me" Camera Hack"
-echo $me "[8]"$me" Web Deface"
-echo $me "[9]"$me" Deface Script Maker"
-echo $me "[10]"$me" Virtex maker (Virus Text)"
-echo $me "[99]"$me" Join INTERNET HELP ZONE GROUP"
-echo $me "[EXIT]"
+echo \033[33;1m " ___SELECT YOUR WORKING TOOLS___"
+echo \033[33;1m "[1]"\033[33;1m" FACEBOOK HACK"
+echo \033[33;1m "[2]"\033[33;1m" Spam Chat"
+echo \033[33;1m "[3]"\033[33;1m" Phising Web Maker"
+echo \033[33;1m "[4]"\033[33;1m" CCTV Hack"
+echo \033[33;1m "[5]"\033[33;1m" DDOS Attack"
+echo \033[33;1m "[6]"\033[33;1m" Virus Maker"
+echo \033[33;1m "[7]"\033[33;1m" Camera Hack"
+echo \033[33;1m "[8]"\033[33;1m" Web Deface"
+echo \033[33;1m "[9]"\033[33;1m" Deface Script Maker"
+echo \033[33;1m "[10]"\033[33;1m" Virtex maker (Virus Text)"
+echo \033[33;1m "[99]"\033[33;1m" Join INTERNET HELP ZONE GROUP"
+echo \033[33;1m "[EXIT]"
 echo 
 echo 
-echo $cy"┌==="$bi"[ xEHx ]"
-echo $cy"¦"
+echo \033[33;1"┌==="\033[33;1m"[ xEHx ]"
+echo \033[33;1m"¦"
 read -p">>>" pil;
 
-if [ $pil = 1 ]
+if [ \033[33;1m = 1 ]
 then
 clear
 pkg install php -y
@@ -79,7 +79,7 @@ cd darkfb
 python2 Dark.py
 fi
 
-if [ $pil = 2 ]
+if [ \033[33;1m = 2 ]
 then
 clear
 apt install python
@@ -91,7 +91,7 @@ cd Spammer
 python spam.py
 fi
 
-if [ $pil = 3 ]
+if [ \033[33;1m = 3 ]
 then
 clear
 git clone https://github.com/Zen-Clay/zenphis
@@ -99,7 +99,7 @@ cd zenphis
 sh zenphis.sh
 fi
 
-if [ $pil = 4 ]
+if [ \033[33;1m = 4 ]
 then
 clear
 git clone https://github.com/kancotdiq/ipcs
@@ -107,7 +107,7 @@ cd ipcs
 python2 scan.py
 fi
 
-if [ $pil = 5 ]
+if [ \033[33;1m = 5 ]
 then
 clear
 pkg install python
@@ -116,12 +116,12 @@ cd hammer
 python hammer.py
 fi
 
-if [ $pil = 6 ]
+if [ \033[33;1m = 6 ]
 then
 clear
-echo $me "AFTER DONE,U NEED TO DO cd Android"
-echo $me "AND MOVE IT TO SDCARD USING mv (VIRUS NAME) /sdcard"
-echo $me "xEHx Here.."
+echo \033[33;1m "AFTER DONE,U NEED TO DO cd Android"
+echo \033[33;1m "AND MOVE IT TO SDCARD USING mv (VIRUS NAME) /sdcard"
+echo \033[33;1m "xEHx Here.."
 sleep 10
 pkg install python2
 git clone https://github.com/Mr-xDODOL/Malicious
@@ -134,7 +134,7 @@ chmod 777 malicious.py
 python2 malicious.py
 fi
 
-if [ $pil = 7 ]
+if [ \033[33;1m = 7 ]
 then
 clear
 git clone https://github.com/thelinuxchoice/saycheese
@@ -142,7 +142,7 @@ cd saycheese
 bash saycheese.sh
 fi
 
-if [ $pil = 8 ]
+if [ \033[33;1m = 8 ]
 then
 clear
 git clone https://github.com/404rgr/webdav77
@@ -151,7 +151,7 @@ chmod 777 webdav77.sh
 bash install.sh
 fi
 
-if [ $pil = 9 ]
+if [ \033[33;1m = 9 ]
 then
 clear
 git clone https://github.com/ICT154/SDC
@@ -159,7 +159,7 @@ cd SDC
 python2 create.py
 fi
 
-if [ $pil = 10 ]
+if [ \033[33;1m = 10 ]
 then
 clear
 git clone https://github.com/muhammadfathul/VIRTEX
@@ -168,26 +168,26 @@ Chmod +x *
 sh virtex.sh
 if
 
-if [ $pil = 99 ]
+if [ \033[33;1m = 99 ]
 then
 clear
-echo $me "LOADING...."
+echo \033[33;1m "LOADING...."
 sleep 3
-echo $me "HERE,COPY THIS!..."
-echo $me "===>>> https://t.me/joinchat/T5NS8RejNbcKTbXyMeA87Q"
+echo \033[33;1m "HERE,COPY THIS!..."
+echo \033[33;1m "===>>> https://t.me/joinchat/T5NS8RejNbcKTbXyMeA87Q"
 fi
 
-if [ $pil = EXIT ]
+if [ \033[33;1m = EXIT ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Thanks for use my script"
+echo \033[33;1m"Thanks for use my script"
 sleep 2
-echo $i"If have some issue,DM me on Gmail only"
+echo \033[33;1m"If have some issue,DM me on Gmail only"
 sleep 2
-echo $i" GMAIL   :"$i" xEHx.com@gmail.com"
-echo $bi"CREATOR :"$i" HIDDEN"
+echo \033[33;1m" YOUTUBE   :"\033[33;1m" Internet help zone"
+echo \033[33;1m"CREATOR :"\033[33;1m" MOHAMMAD SHIHAB UDDIN"
 exit
 fi
 
